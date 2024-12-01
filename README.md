@@ -1,4 +1,4 @@
-# AIGCvsUGC
+# AIGC-UGC
 The folder ***Data from Generative AI*** contains screenshots documenting the complete dialogues with Generative AI in the experiment, with the detailed information as follows:
 |Figure|Description|
 |-|-|
